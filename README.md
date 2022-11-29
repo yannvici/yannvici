@@ -24,6 +24,6 @@
 </p>
 
 
-<p align="center"><b>努力努力再努力的写bug，VENI VIDI VICI</b></p>
+<p align="center">努力努力再努力的写bug，<b>VENI VIDI VICI</b></p>
 
 <!-- <p align="center">我的理想是让这个世界没有<b>难开发</b>的安卓项目，消灭一切<b>难维护</b>的代码。</p> -->
